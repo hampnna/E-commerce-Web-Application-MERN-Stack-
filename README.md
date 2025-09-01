@@ -1,4 +1,4 @@
-# StartSmart-A-MERN-Stack-E-Commerce-Product-Management-System
+# E-commerce Web Application (MERN Stack)
 
 This is a full-stack e-commerce product management application built using the **MERN stack** (MongoDB, Express, React, Node.js). It allows users to add, view, update, and delete products in a user-friendly dashboard.
 
